@@ -8,8 +8,6 @@
 @font-face {
     font-family: 'idroid';
     src: url('font/idroid.otf') format('opentype'), url('font/idroid.ttf'), format('truetype'), url('font/idroid.woff') format('woff');
-    font-size: normal;
-    font-weight: normal;
 }
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;500;800&display=swap');
 
